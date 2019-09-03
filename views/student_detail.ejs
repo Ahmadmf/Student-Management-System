@@ -1,0 +1,15 @@
+<h1>This is student page!</h1>
+<% students.forEach(function(student){ %>
+    <div>
+      <h3> <%=student.name%> </h3>
+      <ul>
+        <li><h6>Faculty Number-</h6><%=student.faculty_number%></li>  
+         <li><h6>Enrollment Number-</h6><%=student.enrollment_number%></li>
+         <li><h6>Course-</h6><%=student.course%></li>
+          <li><h6>Department-</h6><%=student.department%></li>
+      </ul>
+    </div>
+  <form action="/student_detail/<%= student._id%>?_method=DELETE" method="POST">
+      <button class="btn btn-danger">Delete</button>
+  </form>
+<% });  %>
