@@ -6,9 +6,9 @@ etc. It will allow administrator to login and see details of all students, add n
 and delete any student profile from this web application.
 
 <img src="authentiactionPage.png" width="900" height="700">
-<img src="SignUpPage.png" width="300" height="700">
-<img src="LoginPage.png" width="300" height="700">
-<img src="HomePage.png" width="300" height="700">
-<img src="addStudentPage.png" width="300" height="700">
-<img src="addedStudentPage.png" width="300" height="700">
+<img src="SignUpPage.png" width="900" height="700">
+<img src="LoginPage.png" width="900" height="700">
+<img src="HomePage.png" width="900" height="700">
+<img src="addStudentPage.png" width="900" height="700">
+<img src="addedStudentPage.png" width="900" height="700">
 
